@@ -3,23 +3,24 @@
   }
   
   h1 {
-    font-size: 150px;
+    font-size: 5vw;
   }
   
   .dropZone {
     margin-top: 20px;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
     padding-top: 5px;
     padding-bottom: 0px;
-    height: 51vh;
+    height: 50vh;
     background-color: #232e4a;
     border-radius: 20px;
     color: white;
-    font-size: 50px;
+    font-size: 500%;
   }
   
   .image1 {
+    margin-top: 2vh;
     max-width: 100%;
     height: 50vh;
   }
